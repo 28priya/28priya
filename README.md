@@ -23,11 +23,11 @@
 <a href=#><img src="contributions.svg"></a> 
  </p>
 
- 
-<p align="center"> 
+ <p align="center"> 
  PFOFILE VIEWS IN LAST FEW DAYS<br>
   <img src="https://profile-counter.glitch.me/28priya/count.svg"/>
   </p>
+
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28priya&theme=gotham&layout=compact"width="47%"/> 

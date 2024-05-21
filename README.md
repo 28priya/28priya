@@ -8,11 +8,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
 <p align="center">
-<a href=#><img src="contributions.svg"></a> 
- </p>
+    <a href="http://jrohit.com.np" target="_blank">
+        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+    </a>
+</p>
+
+
+
 
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28priya&theme=gotham&layout=compact"width="47%"/> 
